@@ -1,0 +1,24 @@
+{
+  "name": "performance-monitor-decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeannot-MN/performance-monitor-decorator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeannot-MN/performance-monitor-decorator/issues"
+  },
+  "homepage": "https://github.com/Jeannot-MN/performance-monitor-decorator#readme",
+  "dependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/node": "^7.18.10"
+  }
+}
